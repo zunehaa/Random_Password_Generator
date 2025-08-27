@@ -20,6 +20,6 @@ A simple Python program that generates secure and random passwords based on user
   - Option to generate multiple passwords at once
 
 ## Example:
-  Enter password length: 12
+  Enter password length: 12 <br>
   Generated Password: A8#kLp9!Qz2r
 ## License: MIT License
